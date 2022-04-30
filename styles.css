@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    background-color: #202020;
+    color: white;
+    text-transform: capitalize;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #CA1919;
+    padding: 0.8rem;
+    width: 100px;
+    border-radius: 10px;
+    background: #CA1919;
+    outline: none;
+    border-color: #CA1919;
+    border: none;
+    cursor: pointer;
+}
+
+.title {
+    position: absolute;
+    top: 0;
+    font-size: 4rem;
+    z-index: 2;
+}
+
+h2 {
+    top: 0;
+    font-size: 4rem;
+    z-index: 2;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
